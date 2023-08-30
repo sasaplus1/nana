@@ -3,6 +3,9 @@
   "description": "super simple asana CLI client designed for me",
   "version": "0.1.0",
   "author": "sasa+1 <sasaplus1@gmail.com>",
+  "devDependencies": {
+    "@types/node": "^20.5.7"
+  },
   "engines": {
     "node": "18"
   },
