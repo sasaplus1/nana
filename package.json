@@ -11,7 +11,9 @@
   },
   "devDependencies": {
     "@tsconfig/strictest": "^2.0.2",
+    "@types/asana": "^0.18.12",
     "@types/node": "^20.5.7",
+    "@types/react": "^18.2.21",
     "@typescript-eslint/eslint-plugin": "^6.5.0",
     "@typescript-eslint/parser": "^6.5.0",
     "eslint": "^8.48.0",
